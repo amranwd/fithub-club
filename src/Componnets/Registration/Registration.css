@@ -1,0 +1,12 @@
+.footer-login {
+    position: relative;
+    padding: 50px;
+}
+
+.footer-login h1 {
+    position: absolute;
+    top: -23px;
+    left: 50%;
+    background-color: #fff;
+    margin-left: -15px;
+}

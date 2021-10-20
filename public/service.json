@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "616d96c3e8a9b44a0d6a9cb8",
+        "name": "Basic Exercise",
+        "icon": "http://kamleshyadav.com/html/fitness_first/single_page_light/images/content/service3.jpg",
+        "description": "Donec id mattis est. Proin nunc sapien, gravida ut sapien ut, ultrices faucibus sapien. Proin vehicula varius ex, vel feugiat massa."
+    },
+    {
+        "_id": "616d96c3a25165f473d6e5ce",
+        "name": "Loose Weight Program",
+        "icon": "http://kamleshyadav.com/html/fitness_first/single_page_light/images/content/service2.jpg",
+        "description": "Proin nunc sapien, gravida ut sapien ut, ultrices faucibus sapien. Proin vehicula varius ex, vel feugiat massa scelerisque id."
+    },
+    {
+        "_id": "616d96c30b1b66cd3d249691",
+        "name": "Diet Specialists",
+        "icon": "http://kamleshyadav.com/html/fitness_first/single_page_light/images/content/service1.jpg",
+        "description": "Donec id mattis est. Proin nunc sapien, gravida ut sapien ut, ultrices faucibus sapien. Proin vehicula varius ex, vel feugiat massa."
+    },
+    {
+        "_id": "616d96c3532d074758c12145",
+        "name": "Yoga Courses",
+        "icon": "https://preview.colorlib.com/theme/flawless/images/xclasses-1.jpg.pagespeed.ic.q6kHkl3GDy.webp",
+        "description": "Nullam vulputate a lectus non molestie. Duis at lobortis neque, in maximus leo. Donec nec blandit ex, in finibus tortor."
+    },
+    {
+        "_id": "616d96c30d7bda1d0ef44930",
+        "name": "Body Building",
+        "icon": "https://thumbs.dreamstime.com/b/muscular-bodybuilder-guy-doing-exercises-dumbbells-over-whi-38154351.jpg",
+        "description": "The sea freight service has grown consider ably in recent years. We spend timetting to kn."
+    },
+    {
+        "_id": "616d96c3eef9a28b717e21d3",
+        "name": "Boxing Classes",
+        "icon": "https://preview.colorlib.com/theme/flawless/images/xclasses-2.jpg.pagespeed.ic.33AsFjCrGY.webp",
+        "description": "The sea freight service has grown consider ably in recent years. We spend timetting to kn."
+    },
+    {
+        "_id": "616d96c3938fa442b29bb61a",
+        "name": "Swiming pool",
+        "icon": "https://cdn.hswstatic.com/gif/pool-games-10.jpg",
+        "description": "The sea freight service has grown consider ably in recent years. We spend timetting to kn."
+    },
+    {
+        "_id": "616d96c324ae01b14734d9b2",
+        "name": "Cycling Facilities",
+        "icon": "https://m.media-amazon.com/images/I/71bUQZxaheL._SL1500_.jpg",
+        "description": "The sea freight service has grown consider ably in recent years. We spend timetting to kn."
+    },
+    {
+        "_id": "616d96c3b53ea7a4441e3089",
+        "name": "Karate Classes",
+        "icon": "https://cdn.cdnparenting.com/articles/2018/02/344017850-H.jpg",
+        "description": "The sea freight service has grown consider ably in recent years. We spend timetting to kn."
+    }
+]
